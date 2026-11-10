@@ -149,8 +149,9 @@ see "Deviations from the paper" below for the investigation of this gap.
 
 ## Not reproduced
 
-Nothing in the selected experiments was left unimplemented: Figures 2-4 and
-Tables 1-3 are all computed and saved to `results/`. The paper's Figure 1
+Nothing in the three Monte Carlo experiments of Section 3.3 was left
+unimplemented: Figures 2-4 and Tables 1-3 are all computed and saved to
+`results/`. The paper's Figure 1
 (a single illustrative sample path with the mid-price, indifference price,
 and quotes over time, Section 3.3) is not separately reproduced as a
 standalone artifact, since it is a qualitative illustration of a single path
