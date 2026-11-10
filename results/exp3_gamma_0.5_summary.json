@@ -1,0 +1,24 @@
+{
+  "gamma": 0.5,
+  "n_paths": 1000,
+  "summary": {
+    "inventory": {
+      "strategy": "inventory",
+      "gamma": 0.5,
+      "spread": 1.1507282898071234,
+      "profit_mean": 48.681655850784956,
+      "profit_std": 5.892590994573035,
+      "final_q_mean": -0.001,
+      "final_q_std": 1.9258005368437583
+    },
+    "symmetric": {
+      "strategy": "symmetric",
+      "gamma": 0.5,
+      "spread": 1.1507282898071234,
+      "profit_mean": 58.31303866118572,
+      "profit_std": 11.43536232029697,
+      "final_q_mean": 0.102,
+      "final_q_std": 6.922826122438835
+    }
+  }
+}
